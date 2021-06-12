@@ -1,0 +1,6 @@
+.config/
+User/
+
+*.c
+*.js
+*.sh
